@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #A4A4A4;
+}
+
+.quem-somos{
+    background-color: #E6E6E6;
+}
+
+.margin{
+    /*margin-top: 30px;*/
+    padding-top: 50px;      /* é um tipo de margem que cobre toda área acima*/
+}
